@@ -1,0 +1,7 @@
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\COEN347WED.AboutDlg.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\COEN347WED.ThresholdDlg.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\COEN347WED.wedForm.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\Wavellet Edge Detector.Properties.Resources.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\COEN347WED.Splash.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Release\Wavellet Edge Detector.csproj.GenerateResource.Cache

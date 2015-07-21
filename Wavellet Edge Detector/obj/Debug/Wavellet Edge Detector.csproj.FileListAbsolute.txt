@@ -1,0 +1,13 @@
+C:\Users\mohabual\Documents\Personal\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\COEN347WED.exe
+C:\Users\mohabual\Documents\Personal\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\COEN347WED.pdb
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\COEN347WED.exe
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\COEN347WED.pdb
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\Wavellet Edge Detector.Properties.Resources.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\Wavellet Edge Detector.csproj.GenerateResource.Cache
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\bin\Debug\COEN347WED.exe
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\bin\Debug\COEN347WED.pdb
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\WED.AboutDlg.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\WED.ThresholdDlg.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\WED.wedForm.resources
+C:\Users\mohabual\Desktop\Edge Detector\Source\Wavellet Edge Detector\obj\Debug\WED.Splash.resources
